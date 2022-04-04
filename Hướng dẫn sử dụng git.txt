@@ -1,0 +1,57 @@
+
+
+
+
+
+
+	1. Repository
+
+	Local va remote
+
+	2. Working tree
+
+	3. gitlab và github
+	
+	4. Cài đặt git
+	
+	5. Lệnh trong git
+	
+		-Git init
+
+		-Git add
+
+		-Git commit 
+
+		-Git status
+
+		-Git log
+
+		-Git push
+
+		-Git pull
+
+		-Git clone
+
+		-Git checkout
+
+		-Git remote
+
+		-Git merge
+
+		-Git branch
+
+		-Git tag
+
+		-Git stash
+
+		-Git rebase
+
+		-Git reset
+		
+		
+		
+		
+		
+		
+		
+		
